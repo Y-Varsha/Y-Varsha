@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varsha Yelisetty</h1>
 <h3 align="center">A constant thriver</h3>
 
-- 📫 How to reach me **varsha.yelisatty@gmail.com**
+- 📫 How to reach me **varshasmail4u@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
